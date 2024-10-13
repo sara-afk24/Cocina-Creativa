@@ -1,0 +1,15 @@
+.title {
+    color: green;
+}
+        body {
+            font-family: Times New Roman sans-serif;
+            
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            
+       
+        }
+        body {
+            background-color: aqua;
+        }
